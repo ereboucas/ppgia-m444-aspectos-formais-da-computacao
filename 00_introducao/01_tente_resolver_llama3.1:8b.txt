@@ -1,0 +1,10 @@
+A alternativa correta é a letra "c". 
+
+Se Lara fala italiano, então Ching fala chinês ou Débora fala dinamarquês. Mas não 
+sabemos ainda se Lara fala italiano ou não.
+
+Também sabemos que Débora fala dinamarquês, por isso podemos excluir opções a e b.
+
+Agora observe as outras afirmações: Elton fala espanhol se e somente se não for 
+verdade que Francisco não fala francês. Mas nós já sabemos que Francisco não fala 
+francês! Então é verdade, portanto, que Elton fala espanhol.

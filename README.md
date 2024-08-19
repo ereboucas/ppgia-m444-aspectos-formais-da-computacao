@@ -1,1 +1,3 @@
-# ppgia-m444-aspectos-formais-da-computacao
+# M444 - Aspectos Formais da Computação
+
+- 00_introducao: Tente Resolver...

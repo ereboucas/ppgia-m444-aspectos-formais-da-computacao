@@ -1,0 +1,11 @@
+Se Lara não fala italiano, então Ana fala alemão. Se Lara fala
+italiano, então Ching fala chinês ou Débora fala dinamarquês.
+Se Débora fala dinamarquês, Elton fala espanhol. Mas Elton fala
+espanhol se e somente se não for verdade que Francisco não
+fala francês. Ora, Francisco não fala francês e Ching não fala
+chinês. Logo,
+a) Lara não fala italiano e Débora não fala dinamarquês.
+b) Ching não fala chinês e Débora fala dinamarquês
+c) Francisco não fala francês e Elton fala espanhol.
+d) Ana não fala alemão ou Iara fala italiano
+e) Ana fala alemão e Débora fala dinamarquês

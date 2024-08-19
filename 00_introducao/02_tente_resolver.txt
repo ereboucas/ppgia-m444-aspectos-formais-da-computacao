@@ -1,0 +1,12 @@
+O rei ir à caça é condição necessária para o duque sair do
+castelo, e é condição suficiente para a duquesa ir ao jardim. Por
+outro lado, o conde encontrar a princesa é condição necessária
+e suficiente para o barão sorrir e é condição necessária para a
+duquesa ir ao jardim. O barão não sorriu.
+Logo:
+a) A duquesa foi ao jardim ou o conde encontrou a princesa.
+b) Se o duque não saiu do castelo, então o conde encontrou a
+princesa.
+c) O rei não foi à caça e o conde não encontrou a princesa.
+d) O rei foi à caça e a duquesa não foi ao jardim.
+e) O duque saiu do castelo e o rei não foi à caça.

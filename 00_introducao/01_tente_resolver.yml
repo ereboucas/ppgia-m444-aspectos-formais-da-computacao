@@ -1,0 +1,13 @@
+propositions:
+  - "i || a"
+  - "!i || (c || d)"
+  - "!d || e"
+  - "e == f"
+  - "!f"
+  - "!c"
+queries:
+  - "!i && !d"
+  - "!c && d"
+  - "!f && e"
+  - "!a || i"
+  - "a && d"
